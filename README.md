@@ -53,9 +53,6 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 |-|-|-|-|:-:|
 |何彥南|資科碩二|110753202| 是團隊中的吉祥物🦒，負責增進團隊氣氛| [aaron1aaron2](https://github.com/aaron1aaron2)|
 |張家銘|副教授|xxxxxxxxx|團隊的中流砥柱，一個人打十個|秘密|
-||||||
-||||||
-||||||
 
 ## References
 * Packages you use
