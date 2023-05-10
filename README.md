@@ -1,16 +1,10 @@
 # [GroupID] your projrct title
 
-## Members
-* name, student ID1
-* name, student ID2
-* name, student ID3
-* ...
+#### Please put a picture here that is enough to represent your final theme
 
-## Quick start
-You might provide an example commend or few commends to reproduce your analysis, i.e., the following R script
-```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
-```
+## Intro
+* Your background and problem definition
+* The goals of this project
 
 ## method
 * Which method do you use?
@@ -21,6 +15,11 @@ Rscript code/your_script.R --input data/training --output results/performance.ts
 
 ## results
 
+## Quick start
+You might provide an example commend or few commends to reproduce your analysis, i.e., the following R script
+```R
+Rscript code/your_script.R --input data/training --output results/performance.tsv
+```
 
 ## Folder organization and its related information
 idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Projects.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) PLoS Comput Biol 5(7): e1000424.
