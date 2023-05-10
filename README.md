@@ -1,16 +1,26 @@
 # [GroupID] your projrct title
 
-### Members
+## Members
 * name, student ID1
 * name, student ID2
 * name, student ID3
 * ...
 
-### Demo 
+## Quick start
 You might provide an example commend or few commends to reproduce your analysis, i.e., the following R script
 ```R
 Rscript code/your_script.R --input data/training --output results/performance.tsv
 ```
+
+## method
+* Which method do you use?
+* What is a null model for comparison?
+* How do your perform evaluation?
+  * Cross-validation, or extra separated data
+
+
+## results
+
 
 ## Folder organization and its related information
 idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Projects.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424) PLoS Comput Biol 5(7): e1000424.
@@ -24,6 +34,9 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 * Source
 * Format
 * Size
+* Input
+* Output
+* ...
 
 ### code
 * Which packages do you use? 
