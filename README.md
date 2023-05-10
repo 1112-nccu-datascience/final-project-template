@@ -14,6 +14,7 @@
 
 
 ## results
+* Analyze and compare results
 
 ## Quick start
 You might provide an example commend or few commends to reproduce your analysis, i.e., the following R script
