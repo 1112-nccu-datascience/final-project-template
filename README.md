@@ -1,4 +1,5 @@
-# Title of your paper
+# [GroupID] your projrct title
+
 ### Members
 * name, student ID1
 * name, student ID2
