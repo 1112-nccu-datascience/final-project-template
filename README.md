@@ -10,14 +10,14 @@
 * Your background and problem definition
 * The goals of this project
 
-## method
+## Method
 * Which method do you use?
 * What is a null model for comparison?
 * How do your perform evaluation?
   * Cross-validation, or extra separated data
 
 
-## results
+## Results
 * Analyze and compare results
 
 ## Quick start
