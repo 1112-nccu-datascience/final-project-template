@@ -1,6 +1,10 @@
 # [GroupID] your projrct title
 
-#### Please put a picture here that is enough to represent your final theme.
+## Contributors
+|組員|系級|學號|工作分配|github|
+|-|-|-|-|:-:|
+|何彥南|資科碩二|110753202|團隊中的吉祥物🦒，負責增進團隊氣氛| [aaron1aaron2](https://github.com/aaron1aaron2)|
+|張小銘|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|秘密|
 
 ## Intro
 * Your background and problem definition
@@ -47,12 +51,6 @@ idea by Noble WS (2009) [A Quick Guide to Organizing Computational Biology Proje
 ### results
 * Which part of the paper do you reproduce?
 * Any improvement or change by your package?
-
-## Contributors
-|組員|系級|學號|工作分配|github|
-|-|-|-|-|:-:|
-|何彥南|資科碩二|110753202|團隊中的吉祥物🦒，負責增進團隊氣氛| [aaron1aaron2](https://github.com/aaron1aaron2)|
-|張小銘|資科碩二|xxxxxxxxx|團隊的中流砥柱，一個人打十個|秘密|
 
 ## References
 * Packages you use
